@@ -22,4 +22,4 @@ public:
    virtual const std::vector<int>&data() const=0;
 };
 
-#endif
+#endif 
